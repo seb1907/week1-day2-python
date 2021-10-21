@@ -1,0 +1,13 @@
+/*the selector
+  the declaration block;
+ */
+ div { 
+ 	color: red;
+ }
+
+h1{
+	font-size: 22px;
+}
+.abc{
+	border: 2px solid red;
+}
